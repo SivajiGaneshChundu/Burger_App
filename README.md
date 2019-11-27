@@ -8,6 +8,7 @@ The application is developed using the follwing technologies
 4) HTML5 and CSS3
 5) Webpack
 6) Visual Studion Code Editor
+7) Google Firebase for Database
 
 
 Use command prompt to run the following commands
@@ -81,7 +82,8 @@ to start the application and to see the application in browser run the following
 npm start
 
 
-
+*****This project only works if you use Google Firebase for database purposes********
+****Have to create a google firebase account and have to change the urls in the source code files to the urls that are specific to your google firebase account********
 
 
 
