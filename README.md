@@ -6,6 +6,9 @@ The application is developed using the follwing technologies
 2) Redux
 3) Java Script(Es6+)
 4) HTML5 and CSS3
+5) Webpack
+6) Visual Studion Code Editor
+
 
 Use command prompt to run the following commands
 
